@@ -1,0 +1,306 @@
+[
+  {
+    "name": "ILJ 2 Lusin Donuts",
+    "description": "Donat Jco yang berisi 24 variant rasa",
+    "price": 111000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/ilj-2023-01_02.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 6
+  },
+  {
+    "name": "1 Lusin Donut + 1 Iced Chocolate + 1 Iced JCoccino",
+    "description": "Donat Jco yang berisi 12 variant rasa dan 2 Ice Jco",
+    "price": 111000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/ilj-2023-03_02.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 6
+  },
+  {
+    "name": "1 Lusin Donut + 1 Iced Chocolate + 1 Iced Thai Tea",
+    "description": "Donat Jco yang berisi 12 variant rasa dan 2 Ice Jco",
+    "price": 111000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/ilj-2023-02_02.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 6
+  },
+  {
+    "name": "Iced Chocolate + Iced Jcoccino",
+    "description": "2 Iced Jco",
+    "price": 57000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/ilj-2023-06_02.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 6
+  },
+  {
+    "name": "Iced Chocolate + Iced Thai Tea",
+    "description": "2 Iced Jco",
+    "price": 57000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/ilj-2023-05_02.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 6
+  },
+  {
+    "name": "J.Cool To Go",
+    "description": "1 Pack J.cool To Go",
+    "price": 65000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2023-jcool-to-go.png",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 6
+  },
+  {
+    "name": "Donuts 1 Lusin",
+    "description": "1 Lusin Donuts Jco",
+    "price": 93000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/donut-1-dzn-2023.png",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 1
+  },
+  {
+    "name": "Donuts 1/2 Lusin",
+    "description": "1/2 Lusin Donuts Jco",
+    "price": 55000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/donut-hlf-dzn-2023.png",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 1
+  },
+  {
+    "name": "Jcoccino",
+    "description": "Ice Jcoccino",
+    "price": 32000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/ice-jcoccino.png",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Caramel Jcoccino",
+    "description": "Ice Caramel Jcoccino",
+    "price": 40000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/caramel-jcoccino-frappe-2021.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Chocolate",
+    "description": "Ice Chocolate",
+    "price": 35000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/ice-chocolate.png",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Thai Tea",
+    "description": "Ice Thai Tea",
+    "price": 29000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/ice-thai-tea.png",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Americano 1L",
+    "description": "Ice Iced Americano 1L",
+    "price": 80000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-iced-americano-1l.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Latte 1L",
+    "description": "Ice Iced Latte 1L",
+    "price": 80000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-iced-latte-1l.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Jcoccino 1L",
+    "description": "Ice Iced Jcoccino 1L",
+    "price": 80000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-iced-jcoccino-1l.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Brown Sugar 1L",
+    "description": "Ice Iced Brown Sugar 1L",
+    "price": 80000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-iced-brown-sugar-1l.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Thai Tea 1L",
+    "description": "Ice Iced Thai Tea 1L",
+    "price": 80000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-iced-thai-tea-1l.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Chocolate 1L",
+    "description": "Ice Iced Chocolate 1L",
+    "price": 80000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-iced-chocolate-1l.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Mocha 1L",
+    "description": "Ice Iced Mocha 1L",
+    "price": 80000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-iced-mocha-1l.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Lemon Tea 1L",
+    "description": "Ice Iced Lemon Tea 1L",
+    "price": 60000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-iced-lemon-tea-1l.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 2
+  },
+  {
+    "name": "Golden Nastar",
+    "description": "Jco Cookies Golden Nastar",
+    "price": 99000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-cookies-golden-nastar.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 3
+  },
+  {
+    "name": "Cheezy Rich",
+    "description": "Jco Cookies Cheezy Rich",
+    "price": 99000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-cookies-cheezy-rich.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 3
+  },
+  {
+    "name": "Caramel Almond",
+    "description": "Jco Cookies Caramel Almond",
+    "price": 79000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-cookies-caramel-almond.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 3
+  },
+  {
+    "name": "St Choco",
+    "description": "Jco Cookies St Choco",
+    "price": 79000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/2021-cookies-st-choco.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 3
+  },
+  {
+    "name": "Cashew Crunchy",
+    "description": "Jco Cookies Cashew Crunchy",
+    "price": 55000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/n-cashew-crunchy.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 3
+  },
+  {
+    "name": "Cashew Original",
+    "description": "Jco Cookies Cashew Original",
+    "price": 55000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/n-cashew-original.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 3
+  },
+  {
+    "name": "Grace (Reguler)",
+    "description": "Jco Hampers Grace (Reguler)",
+    "price": 279000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/reg23-grace.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 4
+  },
+  {
+    "name": "Moon (Reguler)",
+    "description": "Jco Hampers Moon (Reguler)",
+    "price": 689000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/reg23-moon.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 4
+  },
+  {
+    "name": "Charm (Reguler)",
+    "description": "Jco Hampers Charm (Reguler)",
+    "price": 349000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/reg23-charm.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 4
+  },
+  {
+    "name": "Cheer (Reguler)",
+    "description": "Jco Hampers Cheer (Reguler)",
+    "price": 359000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/reg23-cheer.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 4
+  },
+  {
+    "name": "Joy (Reguler)",
+    "description": "Jco Hampers Joy (Reguler)",
+    "price": 419000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/reg23-joy.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 4
+  },
+  {
+    "name": "Bliss (Reguler)",
+    "description": "Jco Hampers Bliss (Reguler)",
+    "price": 289000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/reg23-bliss.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 4
+  },
+  {
+    "name": "Delight (Reguler)",
+    "description": "Jco Hampers Delight (Reguler)",
+    "price": 449000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/reg23-delight.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 4
+  },
+  {
+    "name": "Venus (Reguler)",
+    "description": "Jco Hampers Venus (Reguler)",
+    "price": 869000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/reg23-venus.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 4
+  },
+  {
+    "name": "Mars (Reguler)",
+    "description": "Jco Hampers Mars (Reguler)",
+    "price": 1069000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/reg23-mars.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 4
+  },
+  {
+    "name": "1 Box J.Coffee Drip",
+    "description": "Jco Other 1 Box J.Coffee Drip",
+    "price": 70000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/jcoffee-drip-2021.webp",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 5
+  },
+  {
+    "name": "Mug Coffee Time",
+    "description": "Jco Other Mug Coffee Time",
+    "price": 99000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/mug-coffeetime-16oz-2023.JPG",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 5
+  },
+  {
+    "name": "Mug Groovy",
+    "description": "Jco Other Mug Groovy",
+    "price": 89000,
+    "imgUrl": "https://cdn.app.jcodelivery.com/img/menu/mug-groovy-12oz-2023.JPG",
+    "authorId": "6526c0eeafeb80dc39d2a4ef",
+    "categoryId": 5
+  }
+]
